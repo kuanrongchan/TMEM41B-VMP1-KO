@@ -2,6 +2,7 @@
 ## Heatmap analysis for lipids analysis
 1. The raw intensity counts for mass spectrometry can be accessed in the "Lipids_VMP1_TMEM41B_KO.csv" file.
 2. The Python analysis file for mass spectrometry can be accessed in the "Lipids_VMP1_TMEM41B_KO.ipynb" file. Data is Z-score transformed using Python codes (command: Z-score = 0)
+3. You may open the .ipynb file with Jupyter Notebooks or in Visual Studio Code.
 
 ## Heatmap for figure
 ![heatmap](https://user-images.githubusercontent.com/91276553/166645056-109c39a7-36a2-4d3a-a6e9-52dc4020745e.png)
