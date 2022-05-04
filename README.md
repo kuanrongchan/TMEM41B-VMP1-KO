@@ -6,3 +6,6 @@
 
 ## Heatmap for figure
 ![heatmap](https://user-images.githubusercontent.com/91276553/166645056-109c39a7-36a2-4d3a-a6e9-52dc4020745e.png)
+
+## Credits and other information
+This work is done in collaboration with Duke-NUS and SMART-MIT. For more details of what we do, please visit https:kuanrongchan.com
